@@ -1,5 +1,5 @@
 document.addEventListener("scroll", function () {
-    const words = ["Holiiii :3", "Joyciiii", "Lindaaa", "Mi geologa Favorita"];
+    const words = ["Holiiii :3", "Bonitaaa", "Beshitos?", "Kiss kiss"];
     const container = document.querySelector(".words-container");
 
     const wordElement = document.createElement("span");
